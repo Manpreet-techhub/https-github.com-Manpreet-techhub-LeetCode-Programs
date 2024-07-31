@@ -29,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Manpreet-techhub/https-github.com-Manpreet-techhub-LeetCode-Programs/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Manpreet-techhub/https-github.com-Manpreet-techhub-LeetCode-Programs/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Manpreet-techhub/https-github.com-Manpreet-techhub-LeetCode-Programs/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
